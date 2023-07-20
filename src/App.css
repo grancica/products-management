@@ -5,8 +5,8 @@
   justify-content: center;
   text-align: center;
 }
-/* 
-.App-logo {
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -40,3 +40,8 @@
     transform: rotate(360deg);
   }
 } */
+/* .main {
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 40rem;
+}  */
